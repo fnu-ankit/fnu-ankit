@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning PYTHON, SQL, DOCKER, TERRAFORM, MAGE 
 - 💞️ I’m looking to reach my goals soon
 - 📫 How to reach me : sendml2ankit@gmail.com
 - 😄 Pronouns: He/Him
