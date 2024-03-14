@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning PYTHON, SQL, DOCKER, TERRAFORM, MAGE 
 - 💞️ I’m looking to reach my goals soon
-- 📫 How to reach me : [linkedin](https://www.linkedin.com/in/fnuankit/) {:taget="_blank" rel="noopener"}
+- 📫 How to reach me : [linkedin](https://www.linkedin.com/in/fnuankit/){:target="_blank" rel="noopener"}
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Data is the new Black
 
