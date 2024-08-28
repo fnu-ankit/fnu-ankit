@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning PYTHON, SQL, DOCKER, TERRAFORM, AIRFLOW, MAGE 
+- 🌱 PYTHON, SQL, AZURE, DOCKER, TERRAFORM, AIRFLOW, MAGE 
 - 💞️ I’m looking to reach my goals soon
 - 📫 How to reach me : [linkedin](https://www.linkedin.com/in/fnuankit/)
 - 😄 Pronouns: He/Him
